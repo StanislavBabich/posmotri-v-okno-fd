@@ -145,7 +145,6 @@ ol {
 
 .search-form__textfield:focus {
   outline: none;
-
 }
 
 .search-form__textfield:focus-visible {
@@ -162,7 +161,6 @@ ol {
   display: flex;
   align-items: center;
   column-gap: 5px;
-
 }
 
 
@@ -172,7 +170,6 @@ ol {
   inline-size: 19px;
   block-size: 19px;
   position: relative;
-
 }
 
 .search-form__checkbox:checked+.search-form__pseudo-checkbox::after {
@@ -182,7 +179,6 @@ ol {
   inline-size: 15px;
   block-size: 15px;
   margin: 1px 0 0 1px;
-
 }
 
 .search-form__label:hover {
