@@ -51,7 +51,6 @@ ol {
 }
 
 .page {
-  height: 800px;
   display: flex;
   align-items: center;
   inline-size: 1200px;
@@ -70,7 +69,7 @@ ol {
   grid-auto-flow: row;
   align-content: center;
   justify-content: center;
-  padding: 0 30px;
+  padding: 173px 30px 133px 30px;
   width: 100%;
 }
 
@@ -163,6 +162,7 @@ ol {
   display: flex;
   align-items: center;
   column-gap: 5px;
+
 }
 
 
@@ -172,6 +172,7 @@ ol {
   inline-size: 19px;
   block-size: 19px;
   position: relative;
+
 }
 
 .search-form__checkbox:checked+.search-form__pseudo-checkbox::after {
@@ -181,6 +182,7 @@ ol {
   inline-size: 15px;
   block-size: 15px;
   margin: 1px 0 0 1px;
+
 }
 
 .search-form__label:hover {
@@ -311,7 +313,7 @@ ol {
 }
 
 .content__video-card-title {
-  font-family: 'Oswald', Arial, sans-serif; 
+  font-family: 'Oswald', Arial, sans-serif;
   font-weight: 700;
   font-size: 30px;
   line-height: 100%;
